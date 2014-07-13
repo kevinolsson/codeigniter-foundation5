@@ -39,7 +39,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '/blank_project/';
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
